@@ -1,4 +1,4 @@
-//BAI1
+//BAI1.cpp
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
@@ -34,7 +34,7 @@ int main(){
 	xuat(a,n,m);
 }
 
-//BAI2
+//BAI2.cpp
 #include<stdio.h>
 #define p printf // xuat
 #define s scanf //nhap
